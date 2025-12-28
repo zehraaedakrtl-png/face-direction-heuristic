@@ -49,4 +49,22 @@ or landmark noise.
 - OpenCV
 - MediaPipe
 
+- ## Execution
+
+```bash
+python face-direction-heuristic.py
+
+---
+
+```md
+
+## Expected Output
+
+- A green dot indicating the nose landmark
+- On-screen text showing head direction:
+  - LEFT
+  - FORWARD
+  - RIGHT
+
+
 
